@@ -1,0 +1,32 @@
+.Web-Development{
+    justify-content:space-between;
+    padding: 10px;
+
+}
+.web{
+    display: flex;
+    overflow: scroll;
+    justify-content:space-between;
+
+}
+.Web-Development h2{
+    padding: 10px;
+    margin: 10px;
+    /* border: 1px solid rgb(5, 5, 5); */
+    /* background-color: rgb(19, 14, 17); */
+
+    color: rgb(19, 3, 3);
+}
+ /* ul li
+    padding: 0;
+    list-style-type: none;
+    margin-bottom: 8px; } */
+ .web a{
+    color: rgb(65, 12, 144);
+    text-decoration: none;
+}
+
+.web a:hover{
+    text-decoration: underline;
+ }
+
